@@ -715,6 +715,7 @@ export default function Map({ filters, search, isAdmin }) {
                       <option value="Ruin">Ruin</option>
                       <option value="Artifact">Artifact</option>
                       <option value="Altar">Altar</option>
+                      <option value="Church">Church</option>
                     </select>
                   </div>
 
