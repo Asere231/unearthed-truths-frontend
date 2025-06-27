@@ -238,7 +238,7 @@ export default function MapPage() {
                   <option value="">All Regions</option>
                   <option value="Israel">Israel</option>
                   <option value="Egypt">Egypt</option>
-                  <option value="Babylon">Babylon</option>
+                  <option value="Sudan">Sudan</option>
                 </select>
               </div>
 

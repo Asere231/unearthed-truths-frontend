@@ -257,11 +257,8 @@ export default function AdminPage() {
                 <option value="Egypt" className="bg-gray-800">
                   Egypt
                 </option>
-                <option value="Babylon" className="bg-gray-800">
-                  Babylon
-                </option>
-                <option value="Jerusalem" className="bg-gray-800">
-                  Jerusalem
+                <option value="Sudan" className="bg-gray-800">
+                  Sudan
                 </option>
               </select>
             </div>
